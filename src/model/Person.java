@@ -2,6 +2,7 @@ package model;
 
 public class Person {
     private String navn;
+    private int number;
 
     public Person(String navn) {
         this.navn = navn;
