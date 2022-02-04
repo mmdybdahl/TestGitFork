@@ -24,4 +24,9 @@ class PersonTest {
         assertEquals("Abe", person.getNavn());
 
     }
+
+    @Test
+    void getNumber() {
+        assertEquals("Hugo", person.getNavn());
+    }
 }
